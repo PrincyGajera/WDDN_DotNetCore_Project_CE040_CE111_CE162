@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WDDN_DotNetCore_Project_CE040_CE111_CE162/ProjectCore3/.vs
+/.vs
